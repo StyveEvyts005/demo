@@ -2,7 +2,7 @@
 // CONFIGURATION - À MODIFIER
 // ==========================================
 let CONFIG = {
-  appsScriptUrl: 'VOTRE_APPS_SCRIPT_URL', // Remplacez par votre URL Apps Script
+  appsScriptUrl: ' ', // Remplacez par votre URL Apps Script
   shopName: 'Ma Boutique',
   shopSlogan: 'Mode & Style',
   shopLogo: '🛍️',
